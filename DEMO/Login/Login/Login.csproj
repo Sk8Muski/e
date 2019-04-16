@@ -111,6 +111,7 @@
     <Compile Include="HistorialDePlagas.Designer.cs">
       <DependentUpon>HistorialDePlagas.cs</DependentUpon>
     </Compile>
+    <Compile Include="LOOOOOGIN.cs" />
     <Compile Include="Menu.cs">
       <SubType>Form</SubType>
     </Compile>
